@@ -5,4 +5,4 @@ Bu projemde 6 şubatta yaşanan deprem felaket haberlerini çok daha hızlı tak
 ![ScreenShot](canlihaber.netlify.app_ (1).png)
 
 
-<img src="canlihaber.netlify.app_ (1).png" alt="alt text" width="320" height="180">
+<img src="canlihaber.netlify.app_ (1).png" alt="alt text" width="800" height="1200">
